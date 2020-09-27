@@ -4,4 +4,4 @@
 
 ## Purpose
 
-The purpose of this assignment is to refractor a webpage to make it more accessable. 
+The purpose of this assignment is to refractor a webpage to make it more accessable and easily read.
