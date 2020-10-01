@@ -8,7 +8,7 @@ The purpose of this assignment is to refractor a webpage to make it more accessa
 
 ## Screenshot
 
-![Image](assets/images/screenshot.jpg "website title")
+![Image](assets/images/screenshot.png "website title")
 
 ## How to use
 
@@ -18,4 +18,4 @@ To use, go to the web address listed below.
 
 Or clone this repository using 
 
-'git@github.com:calebkw91/HW1_HoriseonCodeRefractor.git'
+`git@github.com:calebkw91/HW1_HoriseonCodeRefractor.git`
