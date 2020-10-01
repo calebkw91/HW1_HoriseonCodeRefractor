@@ -8,7 +8,7 @@ The purpose of this assignment is to refractor a webpage to make it more accessa
 
 ## Screenshot
 
-![Image](assets/images/screenshot.png "website title")
+![Image](assets/images/homepage_screenshot.png "website title")
 
 ## How to use
 
