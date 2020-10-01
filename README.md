@@ -4,7 +4,8 @@
 
 ## Purpose
 
-The purpose of this assignment is to refractor a webpage to make it more accessable and easily read. The HTML was edited with better semantics, and the CSS was consolidated with comments were added. 
+The purpose of this assignment is to refractor a webpage to make it more accessable and easily read. You will find the the HTML has been updated with better semantics, the images all have alt descriptions, and the links in the nav bar function properly. In the CSS, classes and IDs have been consolidated and rearranged the match the flow of the webpage.
+
 
 ## Screenshot
 
