@@ -1,4 +1,4 @@
-# HW1_HoriseonCodeRefractor
+# HoriseonCodeRefractor
 
 ## HTML CSS Git: Code Refractor HW 1
 
