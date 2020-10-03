@@ -15,7 +15,7 @@ The purpose of this assignment is to refractor a webpage to make it more accessa
 
 To use, go to the web address listed below.
 
-[Link](https://calebkw91.github.io/HW1_HoriseonCodeRefractor/)
+[Link](https://calebkw91.github.io/HoriseonCodeRefractor/)
 
 Or clone this repository using 
 
